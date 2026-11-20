@@ -1,12 +1,14 @@
 # World news in one image — Friday 20 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261120-111)](https://make.fun/bounty/news-image-20261120)
-[![license](https://img.shields.io/badge/license-MIT-111)](LICENSE)
-[![python](https://img.shields.io/badge/python-3.13-111)](https://www.python.org/)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/vcspeeper-cmd/world-news-2026-11-20/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/vcspeeper-cmd/world-news-2026-11-20/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-One 1024×1024 PNG that sums up the world's news of 20 November 2026, drawn
-from scratch with Pillow. No network, no clock, no randomness: the same
-bytes come out on every run.
+An entry for [make.fun](https://make.fun)'s bounty
+[“Sum up 20 November's world news in one image”](https://make.fun/bounty/news-image-20261120),
+$250 in USDC across fifty places. One 1024×1024 PNG that sums up the
+world's news of 20 November 2026, drawn from scratch with Pillow. No
+network, no clock, no randomness: the same bytes come out on every run.
 
 ![the front page](entry.png)
 
